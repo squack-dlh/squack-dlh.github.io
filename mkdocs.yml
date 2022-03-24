@@ -3,7 +3,7 @@ theme:
   name: material
 nav:
   - 介绍: index.md
-
+  - 关于: about.md
 
 markdown_extensions:
   - admonition
